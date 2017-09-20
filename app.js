@@ -1,3 +1,10 @@
+function aBigNewFeature()
+{
+  console.log('Writing a lot of code') ;
+ console.log('Halfway done with this new feature') ;
+
+}
+
 function something()
 {
    console.log("I\'m something") ;
@@ -5,3 +12,4 @@ function something()
 }
 console.log("Hello World") ;
 something() ;
+aBigNewFeature() ;
